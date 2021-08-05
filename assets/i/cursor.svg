@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 50 50">
+  <g id="курсор" transform="translate(-713.661 -530.661)">
+    <circle id="Эллипс_1" data-name="Эллипс 1" cx="25" cy="25" r="25" transform="translate(713.661 530.661)" fill="#fff" opacity="0.7"/>
+    <g id="Сгруппировать_1731" data-name="Сгруппировать 1731" transform="translate(726.806 543.806)">
+      <g id="Сгруппировать_1729" data-name="Сгруппировать 1729" transform="translate(12.024)">
+        <line id="Линия_18" data-name="Линия 18" y2="9.877" fill="none" stroke="#090709" stroke-width="1"/>
+        <line id="Линия_19" data-name="Линия 19" y2="9.877" transform="translate(0 14.171)" fill="none" stroke="#090709" stroke-width="1"/>
+      </g>
+      <g id="Сгруппировать_1730" data-name="Сгруппировать 1730" transform="translate(24.048 12.024) rotate(90)">
+        <line id="Линия_18-2" data-name="Линия 18" y2="9.877" fill="none" stroke="#090709" stroke-width="1"/>
+        <line id="Линия_19-2" data-name="Линия 19" y2="9.877" transform="translate(0 14.171)" fill="none" stroke="#090709" stroke-width="1"/>
+      </g>
+    </g>
+  </g>
+</svg>
